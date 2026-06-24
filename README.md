@@ -4,7 +4,7 @@ PakNotesDataBase is a local repository for preparing and organizing test-related
 
 ## Current Workspace
 
-This repository is now connected to GitHub and ready for live edits, commits, and pushes from the local Codex workspace.
+This repository is now connected to GitHub and ready for live edits, commits, and pushes from the local 0xAnsR workspace.
 
 ## Notes
 

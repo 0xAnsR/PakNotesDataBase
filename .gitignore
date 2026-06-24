@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+imports/
+data/*.db
+data/DB COPY/
